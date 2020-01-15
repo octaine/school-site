@@ -1,7 +1,23 @@
 body {
 
-background-image: url(https://i.ytimg.com/vi/QykkWNOtap4/hqdefault.jpg);
-background-repeat: no-repeat;
+background-color: #2f4f4f;
 
 }
 
+h1{
+
+color: teal;
+
+}
+
+h2{
+
+    color: teal;
+
+    }
+
+#addsong{
+
+color: red;
+
+    }
