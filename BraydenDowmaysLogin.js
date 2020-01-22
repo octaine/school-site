@@ -4,8 +4,8 @@ function validate(){
 var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
 if ( username == "breach" && password == "break5831"){
-alert ("Login successfully");
-window.location = "homeIndex.html"; // Redirecting to other page.
+alert ("Login successful");
+window.location = "thegaayesthomepageintheworldoftheoink5159.html"; // Redirecting to other page.
 return false;
 }
 else{
