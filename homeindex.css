@@ -1,23 +1,13 @@
-body {
+#title
+{
 
-background-color: #2f4f4f;
-
-}
-
-h1{
-
-color: teal;
+text-align: center;
 
 }
 
-h2{
+aside
+{
 
-    color: teal;
+text-align: left;
 
-    }
-
-#addsong{
-
-color: red;
-
-    }
+}
