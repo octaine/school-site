@@ -5,9 +5,31 @@ text-align: center;
 
 }
 
-aside
+nav
 {
 
-text-align: left;
+align-content: center;
+text-align: center;
+
+}
+
+body
+{
+
+background-color: #465f8a;
+
+}
+
+#abtdev
+{
+
+text-align: center;
+
+}
+
+footer
+{
+
+text-align: center;
 
 }
