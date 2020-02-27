@@ -18,16 +18,18 @@ body
 
 background-color: #465f8a;
 
-}
-
-#abtdev
-{
-
-text-align: center;
 
 }
 
 footer
+{
+
+text-align: center;
+background-color: grey;
+
+}
+
+#abtdev
 {
 
 text-align: center;
